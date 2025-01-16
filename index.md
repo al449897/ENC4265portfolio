@@ -1,4 +1,4 @@
-[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [My Reflective Blogs](reflective_blogs.md) | [AI Statement] (ai_statement.md) 
+[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [My Reflective Blogs](reflective_blogs.md) | [AI Statement](ai_statement.md) 
 
 # Welcome to my Digital Portfolio 
 
