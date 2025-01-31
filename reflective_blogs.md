@@ -24,28 +24,58 @@ Overall, modern website design is heavily catered to have the easiest user exper
 
 
 ---
-# Quick Start Guide
+# Google Calendar Quick Start Guide
 
-## Assignment Rationale 
-This assignment will let you experiment with a generative AI tool of your choice, and you will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.
+## Part 1: Getting Started
+a. Open Google on your preferred browser and sign into your Google account. 
 
-## Where to Start
-Think of a product that you already know how to use. It can be a bluetooth headset, an app, a video game, a sewing machine, or anything that requires a little bit of setup to use.
+b. Click the three dots to the top right of the browser and navigate to Google Calendar. 
 
-## Assignment Steps
-This assignment is a little more structured than others in our course, so please follow these steps:
-1. Open Copilot or any other text-based generative AI tool you prefer (don't pay for it unless you happen to already have a subscription)
-2. Write a prompt that asks it to generate a quick-start guide for your product of choice. (copy and paste this somewhere - it is part of what you need to turn in)
-3. Evaluate the output. Try to follow the steps yourself, or at least imagine following them.
-4. Prompt it again (and again) if needed (again saving your prompts somewhere).
-5. Reflect on the process and write a short (200 words) reflection on the tool's strengths, weaknesses, and anything that you learned (or anything that surprised you).
 
-## What is Due
-On your portfolio, post the following:
--The name of the tool (with the link if you have it)
--Your prompts
--The best output 
--Your reflection 
+## Part 2: How To Create Events 
+a. Click the “Plus” button. 
+
+b. Fill out your desired information. 
+
+c. Decide if you want a notification or alarm  set.  
+
+d. Color code the event by pressing the circle.  
+
+e. Check “Save” to finish. 
+
+
+## Step 3: How to Create Tasks 
+a. Click the “Plus” button. 
+
+b. Fill out desired information. 
+
+c. Check the mark button when completed. 
+
+## Step 4: How to Create Free Bookable Appointment Schedules 
+ 
+a. Click the “Plus” button. 
+
+b. Fill out desired information such as title and weekly availability. 
+
+c. Review additional options such as buffer times and guest options. 
+
+d. Sync your calendar to avoid scheduling conflicts. 
+
+## Step 5: How to Incorporate Additional Calendars 
+ 
+a. Browse Google premade calendars, use a link, or request a friend’s calendar. 
+
+b. Click the checkbox on the left hand side under “Other calendars” to add  or remove calendars. 
+
+## Step 6: How to Alter Calendar Appearances 
+ 
+a. Change the viewing from month, week, or year with the button at the top right. 
+
+b. Switch from viewing the calendar to viewing your tasks using the button next to this one. 
+
+c. Change from light to dark mode in settings. 
+
+
 ---
 # Reflective Blog 3
 TBD
