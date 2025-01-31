@@ -28,83 +28,83 @@ Overall, modern website design is heavily catered to have the easiest user exper
 
 
 ## Part 1: Getting Started
-a. Open Google on your preferred browser and sign into your Google account. 
+1. Open Google on your preferred browser and sign into your Google account. 
 
 
-b. Click the **three dots** to the top right of the browser and navigate to Google Calendar. 
+2. Click the **three dots** to the top right of the browser and navigate to Google Calendar. 
 ![three dots](https://github.com/user-attachments/assets/ba91cf08-0537-4158-bf1e-bb0e595e0468)
 
 *Figure 1: Google drop-down menu* 
 
 
 ## Part 2: How To Create Events 
-a. Click the **“+ Create”** button at the top left of the screen.   
+1. Click the **“+ Create”** button at the top left of the screen.   
 
 ![create event](https://github.com/user-attachments/assets/96dc8e52-36fa-4712-88a9-7718ed2859ef)
 
 *Figure 2: "Create" button to initiate events, tasks, or appointment scheduling* 
 
 
-b. Fill out your desired information. 
+2. Fill out your desired information. 
 
 ![event](https://github.com/user-attachments/assets/e6fef418-d637-41b7-95a8-02c7810b104f)
 
 *Figure 3: Event creation options* 
 
 
-c. Decide if you want a notification or alarm  set.  
+3. Decide if you want a notification or alarm  set.  
 
-d. **Color code** the event by pressing the purple circle next to your name at the bottom. 
-
-
-e. Check “Save” to finish. 
+4. **Color code** the event by pressing the purple circle next to your name at the bottom. 
 
 
-## Step 3: How to Create Tasks 
-a. Click the **“+ Create”** button at the top left. 
+5. Check “Save” to finish. 
 
-b. Fill out desired information. 
+
+## Part 3: How to Create Tasks 
+1. Click the **“+ Create”** button at the top left. 
+
+2. Fill out desired information. 
 
 ![tasks](https://github.com/user-attachments/assets/4889f15e-3ec2-4b7b-83d1-92c41624906e)
 
 *Figure 4: Task creation options* 
 
-c. Click "Save" to finish. 
+3. Click "Save" to finish. 
 
-## Step 4: How to Create Free Bookable Appointment Schedules 
+## Part 4: How to Create Free Bookable Appointment Schedules 
  
-a. Click the **“+ Create”** button. 
+1. Click the **“+ Create”** button. 
 
-b. Fill out desired information such as title and weekly availability. 
+2. Fill out desired information such as title and weekly availability. 
 
-c. Review additional options such as buffer times and guest options. 
+3. Review additional options such as buffer times and guest options. 
 
-d. Sync your calendar to avoid scheduling conflicts. 
+4. Sync your calendar to avoid scheduling conflicts. 
 
-## Step 5: How to Incorporate Additional Calendars 
+## Part 5: How to Incorporate Additional Calendars 
  
-a. Navigate to **"Other calendars"** at the bottom left, and click the "+" button.
+1. Navigate to **"Other calendars"** at the bottom left, and click the "+" button.
 
 ![calendar 1](https://github.com/user-attachments/assets/4445228d-d88c-4562-a499-262bd0735a34)
 
 *Figure 5: "+" button for additional calendar integration* 
 
-b. Browse Google premade calendars, use a link, or request a friend’s calendar. 
+2. Browse Google premade calendars, use a link, or request a friend’s calendar. 
 
 ![calendars 2](https://github.com/user-attachments/assets/bc6fc19c-a6b4-419c-bb42-052876ae7dcf)
 *Figure 6: Calendar integration options* 
 
-c. Click the checkboxes under “Other calendars” **to add or remove** calendars from your own.  
+3. Click the checkboxes under “Other calendars” **to add or remove** calendars from your own.  
 
-## Step 6: How to Alter Calendar Appearances 
+## Part 6: How to Alter Calendar Appearances 
  
-a. With the **dropdown button** at the top right of the screen, change the calendar viewing from day, week, month, or year. 
+1. With the **dropdown button** at the top right of the screen, change the calendar viewing from day, week, month, or year. 
 
 ![toggle](https://github.com/user-attachments/assets/af86dd68-7c1d-4e66-98b0-f122cd32b57e)
 
 *Figure 7: Calendar viewing options* 
 
-b. Using the **split calendar and checkmark button**, toggle between viewing the calendar to viewing your task list.  
+2. Using the **split calendar and checkmark button**, toggle between viewing the calendar to viewing your task list.  
 
 ![toggle pt 2](https://github.com/user-attachments/assets/9054d4de-6f2c-4d04-98d7-b2cf079752f9)
 
