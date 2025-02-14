@@ -12,7 +12,7 @@
 
 **DATE**: February 14th, 2025
 
-I evaluated the Apple Watch User Guide. This memo outlines the strengths of the manual, areas for improvement, and recommendations to elevate the user experience further.
+I evaluated the [Apple Watch User Guide](https://help.apple.com/pdf/watch/8/en_US/apple-watch-user-guide-watchos8.pdf). This memo outlines the strengths of the manual, areas for improvement, and recommendations to elevate the user experience further.
 
 **Strengths**
 
