@@ -2,8 +2,8 @@
 
 # Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
-2. [Quick Start Guide](#quick-start-guide)
-3. [Reflective Blog 3](#reflective-blog-3)
+2. [Google Calendar Quick Start Guide](#google-calendar-quick-start-guide)
+3. [Voyant Analysis](#voyant-analysis)
    
 # Wayback Analysis
 Amazon is a powerhouse website that sells hundreds of thousands of items from furniture to dental care. To accommodate for the amount of consumers they receive daily, their current website reflects a simplistic and easy user experience that allows for items to be searched or found within seconds. Unfortunately, their website has not always had the best design for its products. In this blog, I'll be briefly analyzing Amazon's home page from their 2000 website and comparing it to their current 2025 one. 
@@ -114,5 +114,31 @@ Overall, modern website design is heavily catered to have the easiest user exper
 Congratulations! You have learned the essentials of Google Calendar and are now ready to organize your day-to-day efficently. 
  
 ---
-# Reflective Blog 3
-TBD
+# Voyant Analysis
+![voyant page](https://github.com/user-attachments/assets/f3d81553-6e44-497d-b096-457744233f17)
+*Figure 1: Voyant analysis page*
+
+Using [Voyant.com](https://voyant-tools.org/), a website tailored to aid in dissecting digital texts to reveal patterns and other information. In a given file or link, users can discover recurring words, collocates (words that frequently appear next to each other), document summaries, connections between specific terms, and more. With this use of Voyant, I chose to analyze a 130-page 2012 [HP Elitebook manual](https://www.manualslib.com/manual/626334/Hp-Laptop.html#manual) in order to determine the most repeated words as I had never analyzed a technical document in this manner. 
+
+![voyant ](https://github.com/user-attachments/assets/9cb108bb-13be-47b8-95ed-fb5412153da0)
+
+*Figure 2: Voyant's visual compilation of the most used words in the HP manual* 
+
+My results were interesting. In descending order, with the amount of times referenced in the manual being in parentheses, the most used words were
+
+1. Computer (182)
+2. Page (139)
+3. Using (116)
+4. Select (94) 
+5. HP (92)
+6. Drive (84)
+7. Hard (62)
+8. Models (57)
+9. Power (56)
+10. Screen (53)
+
+Obviously, “computer” was the most used term as the manual has to refer to the product it's written about in order to give directions on how to operate it. I was surprised by the lack of action words in the top 10 as “select” was the one that was used the most, while nouns and verbs dominated the rest of the list. Dan Jones in “Technical Writing Style” notes how it’s imperative to include “action in your verbs” in order to incorporate “more energy or power into your writing” and make it “more direct and forceful” (92).  Given this, as well as the overall emphasis on making technical writing to-the-point, minimal, yet efficient, I was expecting to see more commands and verbs in this short list. Yet, it makes sense how aspects of the computer would be referenced more. 
+
+This software has allowed me to have a birds-eye view of a large document without skimming every page for myself while also laying out detailed information on connections within the text and the language used. Voyant can be useful for research papers or projects, especially those that contain comparing documents between different subjects or sources and finding the trends between them. It’s a critical tool that can be beneficial for many, but especially for literary analysts and those in the humanities who want to connect text on a deeper scale. 
+
+Work Cited: Jones, Dan. "Technical writing style." Allyn & Bacon, 1998.
