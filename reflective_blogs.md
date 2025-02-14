@@ -142,3 +142,5 @@ Obviously, “computer” was the most used term as the manual has to refer to t
 This software has allowed me to have a birds-eye view of a large document without skimming every page for myself while also laying out detailed information on connections within the text and the language used. Voyant can be useful for research papers or projects, especially those that contain comparing documents between different subjects or sources and finding the trends between them. It’s a critical tool that can be beneficial for many, but especially for literary analysts and those in the humanities who want to connect text on a deeper scale. 
 
 Work Cited: Jones, Dan. "Technical writing style." Allyn & Bacon, 1998.
+
+**Disclaimer**: This blog was not created using any AI tools. 
