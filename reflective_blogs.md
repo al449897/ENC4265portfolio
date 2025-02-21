@@ -156,6 +156,8 @@ I used BoodleBox’s Claude 3.5 Sonnet AI to assess and revise my current resume
 
 *Figure 1: Screenshot of my current editing resume*
 
+
+## Initial Assessment 
 I uploaded the resume above and asked Claude 3.5 the following prompt:
 
 
@@ -208,6 +210,8 @@ Your membership in Sigma Tau Delta (English Honor Society) and strong academic p
 Given your educational focus and practical experience, I believe you would be most successful starting in an editorial role that allows you to utilize both your technical communication skills and your detailed editing abilities.”
 
 This response is what I was expecting to see, especially given the fact that this is the resume that I use when applying for editing or technical roles as I don’t have work experience yet to attest to my skills. 
+
+## Revision 
 
 I then asked Claude to revise my resume:
 
@@ -322,7 +326,7 @@ Leasing Agent | Riverwind at Alafaya Trail, Oviedo, FL (December 2022 - March 20
 
 Consider adding any additional editing projects or relevant coursework you've completed to further strengthen your application for copyediting positions."
 
-
+## My Experience 
 I then asked Claude, 
 
 
