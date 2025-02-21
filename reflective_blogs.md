@@ -150,6 +150,9 @@ Work Cited: Jones, Dan. "Technical writing style." Allyn & Bacon, 1998.
 
 # BoodleBox Claude AI Resume Review 
 
+***Assignment Prompt Q: Upload your resume (without your address, phone number, and email) to a generative AI tool of your choice (I suggest trying one in Boodlebox). Ask it what position you are best suited for, then ask it to revise your resume to make it more appealing to a future employer in your ideal field.*** 
+
+
 I used BoodleBox’s Claude 3.5 Sonnet AI to assess and revise my current resume.  
 
 ![Screenshot 2025-02-20 193026](https://github.com/user-attachments/assets/85cb9891-71d9-4106-a670-bd4d5191c4e5)
