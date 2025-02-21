@@ -345,4 +345,4 @@ Overall, BoodleBox as a site was also easy to use and provided a lot of options 
 
 *Figure 2: Screenshot of BoodleBox's Claude 3.5 AI*
 
-
+**Disclaimer**: This blog was created with incorporation of AI tools. The analysis was written by me, while the resume prompts were curated by Claude 3.5. 
