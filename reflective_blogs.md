@@ -4,6 +4,7 @@
 1. [Wayback Analysis](#wayback-analysis)
 2. [Google Calendar Quick Start Guide](#google-calendar-quick-start-guide)
 3. [Voyant Analysis](#voyant-analysis)
+4. [BoodleBox Claude AI Resume Review](#boodlebox-claude-ai-resume-review)
    
 # Wayback Analysis
 Amazon is a powerhouse website that sells hundreds of thousands of items from furniture to dental care. To accommodate for the amount of consumers they receive daily, their current website reflects a simplistic and easy user experience that allows for items to be searched or found within seconds. Unfortunately, their website has not always had the best design for its products. In this blog, I'll be briefly analyzing Amazon's home page from their 2000 website and comparing it to their current 2025 one. 
@@ -147,7 +148,7 @@ Work Cited: Jones, Dan. "Technical writing style." Allyn & Bacon, 1998.
 
 ------
 
-# BoodleBox Claude 3.5 AI Resume Review 
+# BoodleBox Claude AI Resume Review 
 
 I used BoodleBox’s Claude 3.5 Sonnet AI to assess and revise my current resume.  
 
