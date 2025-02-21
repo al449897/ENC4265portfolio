@@ -163,12 +163,12 @@ I uploaded the resume above and asked Claude 3.5 the following prompt:
 
 *“Using the information from this resume, what career position do you believe I am best suited for?”*
 
-It responded with the following:
+It responded with the following answer. I formatted it with bolded text to make it easier to read:
 
 “Based on your educational background and experience shown in your resume, you appear to be well-suited for several career positions in the technical communication and editing field. Here are my top recommendations:
 
 
-1. Technical Editor/Copy Editor
+**1. Technical Editor/Copy Editor**
    
    - Your coursework in Professional Editing and experience with Track Changes, APA, and MLA styles make you an excellent candidate
      
@@ -177,7 +177,7 @@ It responded with the following:
    - Strong attention to detail and commitment to maintaining professional standards
 
 
-2. Documentation Specialist
+**2. Documentation Specialist**
    
    - Your experience in developing comprehensive style manuals
      
@@ -186,7 +186,7 @@ It responded with the following:
    - Technical Communication degree focus
 
 
-3. Content Manager/Editor
+**3. Content Manager/Editor**
    
    - Experience in collaborative environments
      
@@ -195,7 +195,7 @@ It responded with the following:
    - Strong background in comprehensive editing and style guide implementation
 
 
-4. Publishing Assistant/Editorial Assistant
+**4. Publishing Assistant/Editorial Assistant**
    
    - Your Certificate in Editing and Publishing
      
@@ -209,7 +209,7 @@ Your membership in Sigma Tau Delta (English Honor Society) and strong academic p
 
 Given your educational focus and practical experience, I believe you would be most successful starting in an editorial role that allows you to utilize both your technical communication skills and your detailed editing abilities.”
 
-This response is what I was expecting to see, especially given the fact that this is the resume that I use when applying for editing or technical roles as I don’t have work experience yet to attest to my skills. 
+These responses are what I was expecting to see, especially given the fact that this is the resume that I use when applying for editing or technical roles. It was great to get confirmation that this resume is applicable for the roles that I apply for. 
 
 ## Revision 
 
@@ -219,7 +219,7 @@ I then asked Claude to revise my resume:
 *“Thank you. Please revise and tailor my resume so that it would be appealing to a future hiring manager within the copyediting field”.*
 
 
-It provided with me with the following answer. I formatted it with bolded text to make it easier to read:
+It provided with me with the following answer. Again, I formatted it with bolded text to make it easier to read:
 
 
 "I'll help you revise your resume to better highlight your relevant experience and skills for a copyediting position. Here's a tailored version:
