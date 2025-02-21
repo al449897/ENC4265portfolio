@@ -161,7 +161,7 @@ I used BoodleBox’s Claude 3.5 Sonnet AI to assess and revise my current resume
 I uploaded the resume above and asked Claude 3.5 the following prompt:
 
 
-*“Using the information from this resume, what career position do you believe I am best suited for?”*
+> *“Using the information from this resume, what career position do you believe I am best suited for?”*
 
 It responded with the following answer. I formatted it with bolded text to make it easier to read:
 
@@ -216,7 +216,7 @@ These responses are what I was expecting to see, especially given the fact that 
 I then asked Claude to revise my resume:
 
 
-*“Thank you. Please revise and tailor my resume so that it would be appealing to a future hiring manager within the copyediting field”.*
+> *“Thank you. Please revise and tailor my resume so that it would be appealing to a future hiring manager within the copyediting field”.*
 
 
 It provided with me with the following answer. Again, I formatted it with bolded text to make it easier to read:
@@ -330,7 +330,7 @@ Consider adding any additional editing projects or relevant coursework you've co
 I then asked Claude, 
 
 
-*“Please make the revised resume into a properly formatted, downloadable pdf”.*
+> *“Please make the revised resume into a properly formatted, downloadable pdf”.*
 
 
 It, unfortunately, was not able to do so, but provided many options and resources for how to format the text myself in a word document processing software. 
