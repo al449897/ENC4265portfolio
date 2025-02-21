@@ -144,3 +144,200 @@ This software has allowed me to have a birds-eye view of a large document withou
 Work Cited: Jones, Dan. "Technical writing style." Allyn & Bacon, 1998.
 
 **Disclaimer**: This blog was not created using any AI tools. 
+
+------
+
+# BoodleBox Claude 3.5 AI Resume Review 
+
+I used BoodleBox’s Claude 3.5 Sonnet AI to assess and revise my current resume.  
+
+![Screenshot 2025-02-20 193026](https://github.com/user-attachments/assets/85cb9891-71d9-4106-a670-bd4d5191c4e5)
+
+*Figure 1: Screenshot of my current editing resume*
+
+I uploaded the resume above and asked Claude 3.5 the following prompt:
+
+
+*“Using the information from this resume, what career position do you believe I am best suited for?”*
+
+It responded with the following:
+
+“Based on your educational background and experience shown in your resume, you appear to be well-suited for several career positions in the technical communication and editing field. Here are my top recommendations:
+
+
+1. Technical Editor/Copy Editor
+   
+   - Your coursework in Professional Editing and experience with Track Changes, APA, and MLA styles make you an excellent candidate
+     
+   - Your demonstrated ability to handle large editing projects (700+ edits in one semester, 20-page journal submissions)
+     
+   - Strong attention to detail and commitment to maintaining professional standards
+
+
+2. Documentation Specialist
+   
+   - Your experience in developing comprehensive style manuals
+     
+   - Background in Documentation and Project Management
+     
+   - Technical Communication degree focus
+
+
+3. Content Manager/Editor
+   
+   - Experience in collaborative environments
+     
+   - Skills in maintaining consistency in written communication
+     
+   - Strong background in comprehensive editing and style guide implementation
+
+
+4. Publishing Assistant/Editorial Assistant
+   
+   - Your Certificate in Editing and Publishing
+     
+   - Experience with various style guides
+     
+   - Strong academic performance (3.7 GPA, Dean's List)
+
+
+Your membership in Sigma Tau Delta (English Honor Society) and strong academic performance demonstrate your commitment to excellence in the field. Your customer service experience as a Leasing Agent also adds valuable interpersonal and administrative skills that would be beneficial in any of these roles.
+
+
+Given your educational focus and practical experience, I believe you would be most successful starting in an editorial role that allows you to utilize both your technical communication skills and your detailed editing abilities.”
+
+This response is what I was expecting to see, especially given the fact that this is the resume that I use when applying for editing or technical roles as I don’t have work experience yet to attest to my skills. 
+
+I then asked Claude to revise my resume:
+
+
+*“Thank you. Please revise and tailor my resume so that it would be appealing to a future hiring manager within the copyediting field”.*
+
+
+It provided with me with the following answer. I formatted it with bolded text to make it easier to read:
+
+
+"I'll help you revise your resume to better highlight your relevant experience and skills for a copyediting position. Here's a tailored version:
+
+
+
+**ALEXIS BEADLE**
+[Contact Information]
+
+
+**PROFESSIONAL SUMMARY**
+
+Detail-oriented editing professional with comprehensive training in technical communication and professional editing. Demonstrated expertise in maintaining editorial consistency and managing large-scale editing projects. Strong background in collaborative environments and proven ability to meet demanding deadlines while maintaining high-quality standards.
+
+
+**EDUCATION**
+
+University of Central Florida, Orlando FL
+
+Bachelor of Arts in Technical Communication (Expected 2025)
+
+Certificate in Editing and Publishing
+
+- GPA: 3.7
+  
+- Dean's List: Fall & Spring 2021-2023
+  
+- Member, Sigma Tau Delta (International English Honor Society)
+
+
+**RELEVANT EXPERIENCE**
+
+Documentation and Project Management
+
+- Spearheaded development of comprehensive university style manual, ensuring consistency in written communication
+  
+- Successfully managed and completed 700+ editorial revisions in one semester
+  
+- Collaborated with cross-functional teams to maintain quality standards and meet project deadlines
+  
+- Demonstrated strong project management skills through systematic documentation processes
+
+
+Professional Editing Projects
+
+- Led comprehensive editing of 20-page academic journal submission utilizing Track Changes
+  
+- Implemented APA style guidelines across multiple academic documents
+  
+- Developed detailed 4-page transmittal document for graduate student portfolio
+  
+- Provided thorough copyediting services for academic papers and journal submissions
+  
+
+**TECHNICAL SKILLS**
+
+- Advanced proficiency in Microsoft Office Suite
+  
+- Expert in Track Changes functionality
+  
+- Comprehensive knowledge of APA and MLA style guides
+  
+- Strong attention to detail and quality control
+  
+- Collaborative editing and feedback implementation
+
+
+**PROFESSIONAL EXPERIENCE**
+
+Leasing Agent | Riverwind at Alafaya Trail, Oviedo, FL (December 2022 - March 2023)
+
+- Managed detailed documentation including legal agreements and resident files
+  
+- Demonstrated excellence in written communication through email correspondence
+  
+- Maintained accurate records and attention to detail in all administrative tasks
+
+
+**Key Improvements Made:**
+
+1. Added a focused Professional Summary highlighting your editing expertise
+   
+2. Reorganized skills and experience to emphasize editing-related achievements
+   
+3. Quantified achievements (700+ edits, 20-page submissions)
+   
+4. Highlighted relevant technical skills specific to editing
+   
+5. Reframed leasing experience to emphasize documentation and communication skills
+
+
+
+
+**This revised format better positions you for copyediting roles by:**
+
+- Emphasizing your formal editing education and training
+  
+- Showcasing your practical experience with various style guides
+  
+- Highlighting your proven ability to handle large editing projects
+  
+- Demonstrating your collaborative abilities and attention to detail
+
+
+Consider adding any additional editing projects or relevant coursework you've completed to further strengthen your application for copyediting positions."
+
+
+I then asked Claude, 
+
+
+*“Please make the revised resume into a properly formatted, downloadable pdf”.*
+
+
+It, unfortunately, was not able to do so, but provided many options and resources for how to format the text myself in a word document processing software. 
+
+
+Beyond this qualm of not being able to create documents within the system, I enjoyed using this AI. I have never used another tool besides ChatGPT, so it was a new experience to use another platform and watch it operate. I genuinely enjoyed the feedback it gave me for my resume and I will absolutely be integrating it within my current one to update it. I enjoyed how it listened to my requests and gave reasoning for why it answered the way that it did; I don’t see that too often when I use ChatGPT as it simply listens to and completes my request, but Claude explained everything along the way and even provided alternative options if it wasn’t able to aid in me in some manner. 
+
+
+Overall, BoodleBox as a site was also easy to use and provided a lot of options for AI tools that I would be able to use.I wouldn’t be opposed to using Claude again for AI testing as it provided great feedback and detailed analyses on its choices. I’m excited about navigating the other tools through this class and having the chance to choose which one best tailors to my academic and career needs. 
+
+![boodlebox](https://github.com/user-attachments/assets/a53a1c4a-a584-4d63-a299-c2ef3981480c)
+
+*Figure 2: Screenshot of BoodleBox's Claude 3.5 AI*
+
+
