@@ -7,5 +7,5 @@ Hello! My name is Alexis and I am an English Technical Communication major with 
 
 I have academic experience creating onboarding manuals, a university style guide, and copyediting dozens of pieces. My prior jobs have allowed me to enhance my interpersonal, collaboration, and decision-making skills that have all tailored into my skillset as an editor and writer. 
 
-## AI Statement
-This website incorporates use of Artificial Intelligence Systems; a disclaimer is given when this instance occurs. 
+> [!IMPORTANT]
+> This website incorporates use of Artificial Intelligence Systems; a disclaimer is given when this instance occurs. 
