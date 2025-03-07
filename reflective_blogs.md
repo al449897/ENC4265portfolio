@@ -5,6 +5,7 @@
 2. [Google Calendar Quick Start Guide](#google-calendar-quick-start-guide)
 3. [Voyant Analysis](#voyant-analysis)
 4. [BoodleBox Claude AI Resume Review](#boodlebox-claude-ai-resume-review)
+5. [ChatBot Reflection](#chatbot-reflection)
    
 # Wayback Analysis
 Amazon is a powerhouse website that sells hundreds of thousands of items from furniture to dental care. To accommodate for the amount of consumers they receive daily, their current website reflects a simplistic and easy user experience that allows for items to be searched or found within seconds. Unfortunately, their website has not always had the best design for its products. In this blog, I'll be briefly analyzing Amazon's home page from their 2000 website and comparing it to their current 2025 one. 
@@ -349,4 +350,31 @@ Overall, BoodleBox as a site was also easy to use and provided a lot of options 
 *Figure 2: Screenshot of BoodleBox's Claude 3.5 AI*
 
 > [!IMPORTANT]
-> This blog was created with incorporation of AI tools. The analysis was written by me, while the resume prompts were curated by Claude 3.5. 
+> This blog was created with incorporation of AI tools. The analysis was written by me, while the resume prompts were curated by Claude 3.5.
+
+
+# ChatBot Reflection
+
+For my latest assignment in this course, I interacted with [Chatling.ai](https://share.chatling.ai/s/MiP7Xknuof8DUR6a) in order to create an [interactive ChatBot for the UCF SPARK form](https://share.chatling.ai/s/MiP7Xknuof8DUR6), which is a document that is required for incoming students who are still in high school to fill out prior to choosing their first courses. 
+
+## Background 
+This document is notoriously tedious for students as it requires filling out many lines and transcribing directly from transcripts, which in themselves can be confusing to navigate. I had a difficult time myself when I had to use it and found myself watching a UCF SPARK workshop, reading over their FAQ page numerous times, and seeking outside answers on a Reddit thread. It would’ve helped me so much if I was able to ask direct questions and receive immediate feedback. So, four years later, I created that solution with SPARKBot. 
+
+## Strengths and Weaknesses of this AI Model
+The AI in this bot accurately answers the questions that I have asked so far regarding questions surrounding the form as it is pulling its knowledge directly from the SPARK form page as well as the FAQ page only. Any other specific data regarding other university endeavors was not included, so this bot is specifically for questions surrounding this form only.
+
+The only aspect that AI won’t do well is, obviously, provide the most accurate answers that a human professional would be able to if circumstances are incredibly unique and are difficult to navigate. But, this bot, and many others, are made for general or semi-specific questions that can be answered without having to utilize outside sources if necessary, so I think that this AI is 
+particularly done well. 
+
+## Re-Prompting 
+With this AI model, the only prompt I had to modify was when I queried it to have a friendly tone with exclamation points in order to sound lighthearted and welcoming. Unfortunately, it added too many, along with emojis, and made it lose its professionalism as a university-aligned tool. So, I re-prompted it to “Read {user_question} and answer in a friendly, lighthearted, manner. Do not include emojis”. It adjusted well and gave me the personality and tone I was looking for. 
+
+## The Future 
+Artificial Intelligence has already progressed beyond anything I have ever imagined it could be, especially within the short time span that it has been incorporated into mainstream use. I believe that Chatbots have the potential to be useful, especially with tedious documents like these, if their errors become a lot lower than they already are. ChatGPT and other AI models have a high chance of getting answers wrong, which can lead to errors in various ways; if these are able to become more reliable as time goes on, Chatbots have a bright future. 
+But, at the same time, I believe that humans will always want to communicate with other humans and AI may just become another inconvenience to consumers. 
+
+
+> [!IMPORTANT]
+> Artificial Intelligence Statement: I used Chatling.ai for the creation of my SPARKBot. 
+
+
