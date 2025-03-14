@@ -6,6 +6,7 @@
 3. [Voyant Analysis](#voyant-analysis)
 4. [BoodleBox Claude AI Resume Review](#boodlebox-claude-ai-resume-review)
 5. [ChatBot Reflection](#chatbot-reflection)
+6. [NotebookLM Analysis](#notebooklm-analysis)
    
 # Wayback Analysis
 Amazon is a powerhouse website that sells hundreds of thousands of items from furniture to dental care. To accommodate for the amount of consumers they receive daily, their current website reflects a simplistic and easy user experience that allows for items to be searched or found within seconds. Unfortunately, their website has not always had the best design for its products. In this blog, I'll be briefly analyzing Amazon's home page from their 2000 website and comparing it to their current 2025 one. 
@@ -377,4 +378,31 @@ But, at the same time, I believe that humans will always want to communicate wit
 > [!IMPORTANT]
 > Artificial Intelligence Statement: I used Chatling.ai for the creation of my SPARKBot. 
 
+# NotebookLM Analysis 
 
+[NotebookLM](https://notebooklm.google/?gad_source=1&gclid=EAIaIQobChMIwYOAudqligMVlptaBR2etzSYEAAYASAAEgL6CfD_BwE) is a site that reads documents and allows for users to ask questions about the documents and save responses into their “notebook” which can be referenced for later. The tool also curates its own notes of frequently asked questions, study guides, AI-Generated “podcasts” of the document, and even a condensed timeline of the document itself. All of these features allow for deeper understanding of material through the ability to ask questions about the source material and curate additional resources to aid in that process. 
+
+![Screenshot 2025-03-14 012257](https://github.com/user-attachments/assets/d4e9e19c-8eb4-462f-9236-77f2ed8c0cf2)
+
+*Figure 1: NotebookLM's main screen. Source: Alexis Beadle*
+
+I chose to analyze Canon’s user manual for their PowerShot G7X Mark II digital camera, which is a detailed 200+ page manual that walks users through the proper ways to care for and use the device. While the document is easy to read with its countless diagrams, color coding, and explanations of each step, sometimes reading through a dense document attempting to find a specific problem or setting is tedious and frustrating; NoteBookLM fixes this issue as the user is able to ask specific questions and is able to receive an answer, with sources included, from this artificial intelligence in an instant. 
+
+I found this site useful as it has a plethora of options to choose from when analyzing a document. This can be particularly helpful if a specific subject or document doesn’t have a lot of public information or resources on it prior, as this tool can provide those answers, guides, and conversations to make up for that loss. The fact that this AI provides sources directly from the uploaded file makes it more reliable than models that don’t provide this, as the user is able to see where the answers are being pulled from directly. 
+
+![user guide](https://github.com/user-attachments/assets/9c1ed931-f292-4b92-9951-2cbb6227922e)
+
+*Figure 2: NotebookLM's AI-generated resources. Source: Alexis Beadle*
+
+
+The only qualm about this site is the source material and set up of the responses can be confusing and cluttering, making it difficult to read through the responses. But, other than that, I figured that this site was easy to use and provided help when necessary. 
+
+![confusing](https://github.com/user-attachments/assets/79a0d93e-5689-44fe-bdb3-df7626ff6856)
+
+*Figure 3: Example of cluttered response.  Source: Alexis Beadle*
+
+
+This is a tool that I would love to incorporate into my future career as it can condense dense documents into study guides or outlines that can be great to reference from. Having the ability to discover an answer to a question without searching through hundreds of pages is a feature that would be beneficial in the field of technical writing and English in general. 
+
+> [!IMPORTANT]
+> Artificial Intelligence Statement: I used NotebookLM for the use of this assignment. 
