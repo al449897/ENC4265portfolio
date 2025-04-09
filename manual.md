@@ -53,7 +53,7 @@ Before you download a mod, there are a few crucial steps you need to take to ens
 1. **Make sure that the mod is up to date and safe.** Game updates usually break most mods as the coding script changes, so it’s important to check for updates routinely. Broken mods can cause issues or glitches in your game. 
 
 Usually, there is a compilation of mods that are safe or broken after new updates. You can either:
-- Find a list that people create, such as through EA forums or Scarlet’s Realm. 
+- Find a list that people create, such as through [EA forums](https://forums.ea.com/discussions/the-sims-4-mods-and-custom-content-en/broken-and-updated-mods-and-cc-1-113-feb-25-2025-game-update/11921215/replies/11921231) or [Scarlet’s Realm](https://scarletsrealm.com/the-mod-list/). 
 - Check the social media or websites of the creator of the mod to see their personal updates on their mods. 
 
 2. **Read the requirements before downloading.** Some mods require you to have specific packs or other mods downloaded prior to theirs being installed. Additionally, one specific mod may conflict with other mods you may have already.
