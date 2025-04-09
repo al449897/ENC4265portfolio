@@ -52,5 +52,21 @@ Usually, there is a compilation of mods that are safe or broken after new update
 - Find a list that people create, such as through EA forums or Scarlet’s Realm. 
 - Check the social media or websites of the creator of the mod to see their personal updates on their mods. 
 
+2. **Read the requirements before downloading.** Some mods require you to have specific packs or other mods downloaded prior to theirs being installed. Additionally, one specific mod may conflict with other mods you may have already.
+
+> [!IMPORTANT]
+> These requirements are crucial to read beforehand as improper or broken mods can harm your game or even your computer. 
+
+## Installation 
+
+Before downloading and installing your mods, you need to differentiate between the file types that they will download as: **.package, .ts4script, or .zip.**
+- A **.package or .ts4script** file is a singular file that can easily be dragged into the mods folder without alteration. 
+
+- A **.zip** file is a folder with multiple files located within it for a more simplistic way of downloading many items at once. 
+
+Both files have the same exact download methods, but differ in the transferring process. 
+
+### Installing a .package or .ts4script File 
+I created a quick, four minute tutorial on how to install these files! 
 
 
