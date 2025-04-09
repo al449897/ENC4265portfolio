@@ -1,6 +1,7 @@
 [Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [My Reflective Blogs](reflective_blogs.md)| [AI Statement](AI_Statement.md)
 
 # Sims 4 Windows OS Mods Manual 
+
 ![image](https://github.com/user-attachments/assets/94d01fbc-46fe-4bc2-96ed-09bb67091d09)
 
 In this manual I will be explaining the basics of game modifications, popularly known as mods, within The Sims 4. This comprehensive guide explains what mods are, how to download them, what maintenance entails, and more. 
