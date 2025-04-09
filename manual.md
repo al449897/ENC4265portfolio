@@ -10,17 +10,21 @@ In this manual I will be explaining the basics of game modifications, popularly 
 
 ## Table of Contents 
 
-What are Mods?
+[What are Mods?](#what-are-mods)
 
-How to Find and Research Mods
+- [Types of Mods](types-of-mods)
 
-Checking Mod Requirements
+[How to Find and Research Mods](#how-to-find-and-research-mods)
 
-Installation
+- [Checking Mod Requirements](#checking-mod-requirements)
 
-Ensuring The Mods are Installed in Game
+[Installation](#installation)
+- [Installing a .package or .ts4script File](#installing-a-package-or-ts4script-file)
+- [Installing a .zip File](#installing-a-zip-file)
 
-What to Do After a Sims Update
+[Ensuring Proper Installation](#ensuring-proper-installation)
+
+[What to Do After a Sims Update](#what-to-do-after-a-sims-update)
 
 ## What *are* Mods?
 
@@ -126,7 +130,7 @@ Make sure that the mod is properly located in the “Mods” folder. Once it is,
 > [!WARNING]
 >  Make sure the file is directly in the “Mods” folder OR it is located in a SINGULAR folder within the “Mods” folder in order for the game to render that it is installed. If it is buried too deep, it can’t be read.
 
-**Ensuring The Mods are Installed in Game** 
+## Ensuring Proper Installation 
 
 In order to make sure that the mods show up in the game, you need to have mods and CC enabled in settings: 
 
@@ -139,7 +143,7 @@ In order to make sure that the mods show up in the game, you need to have mods a
 
 Now you can go into your game and enjoy your new mods properly! 
 
-**What to Do After an Update**
+## What to Do After a Sims Update
 
 Script mods break after updates due to the developers changing the actual code within the game which almost all mods rely on. Given this, without that foundational structure, most mods cannot function and end up incompatible with the most current game mode. 
 
