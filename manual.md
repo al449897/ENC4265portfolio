@@ -102,7 +102,7 @@ Make sure that the mod is properly located in the “Mods” folder. Once it is,
 > [!WARNING]
 >  Make sure the file is directly in the “Mods” folder OR it is located in a SINGULAR folder within the “Mods” folder in order for the game to render that it is installed. If it is buried too deep, it can’t be read.
 
-## Installing a .zip File 
+### Installing a .zip File 
 
 1. **Opening the “Files" folder**.  It’s finally time to download! For the smoothest process, it’s best to open up your Mods folder prior to downloading in order to make the transfer quicker:
 
