@@ -157,3 +157,5 @@ The best case of action to do before and after an update is to,
 5. If it is broken, delete the mod and download the updated version if available. 
 6. If it is still compatible, you can keep it in your mods folder. 
 
+>[!IMPORTANT]
+>**AI Statement**: There was no AI in the use of this manual.
