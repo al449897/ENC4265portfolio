@@ -67,6 +67,89 @@ Before downloading and installing your mods, you need to differentiate between t
 Both files have the same exact download methods, but differ in the transferring process. 
 
 ### Installing a .package or .ts4script File 
-I created a quick, four minute tutorial on how to install these files! 
+I created a quick, four minute tutorial on how to install these files. 
 
+[![Watch the video](https://img.youtube.com/vi/ikV7TZXQRbc/maxresdefault.jpg)](https://youtu.be/ikV7TZXQRbc)
+
+If you prefer written instructions, though, here is how you go about it:
+
+1. **Opening the “Files" folder**.  It’s finally time to download! For the smoothest process, it’s best to open up your Mods folder prior to downloading in order to make the transfer quicker:
+
+- Go to the “Files” folder on your desktop 
+- Click on “Documents” 
+- Click on “Electronic Arts”
+- Click on “Sims 4”
+- Click on “Mods”
+
+2. **Downloading Mod From the Internet.**  On the webpage where your script mod is open, click on either the “Download” button or hyperlink. 
+
+- There may be multiple options to click from, such as downloading from various websites. Choose whichever one you feel comfortable navigating. 
+  - If you get taken to another website that has the mod, click the download button again. 
+
+- You should now see the popup at the bottom of your screen that has the .package file. 
+
+3. **Locate the File.** The easiest way to locate your file is by clicking the right arrow next to the file popup along the bottom of your screen and clicking “Locate File”. It will open another File window and display the mod right there.
+
+4. **Moving the File.** Once you see where the file was placed, you will simply hold down and drag the file over to the left side of the screen where the Mods folder is already open in order to transfer it over. 
+
+Make sure that the mod is properly located in the “Mods” folder. Once it is, it has been properly downloaded. 
+
+> [!WARNING]
+>  Make sure the file is directly in the “Mods” folder OR it is located in a SINGULAR folder within the “Mods” folder in order for the game to render that it is installed. If it is buried too deep, it can’t be read.
+
+## Installing a .zip File 
+
+1. **Opening the “Files" folder**.  It’s finally time to download! For the smoothest process, it’s best to open up your Mods folder prior to downloading in order to make the transfer quicker:
+
+- Go to the “Files” folder on your desktop 
+- Click on “Documents” 
+- Click on “Electronic Arts”
+- Click on “Sims 4”
+- Click on “Mods”
+
+2. **Downloading Mod From the Internet.**  On the webpage where your script mod is open, click on either the “Download” button or hyperlink. 
+
+- There may be multiple options to click from, such as downloading from various websites. Choose whichever one you feel comfortable navigating. 
+  - If you get taken to another website that has the mod, click the download button again. 
+
+- You should now see the popup at the bottom of your screen that has the .package file. 
+
+3. **Locate the File.** The easiest way to locate your file is by clicking the right arrow next to the file popup along the bottom of your screen and clicking “Locate File”. It will open another File window and display the mod right there.
+
+4. **Moving the File.** Once you see where the file was placed, you will:
+- Right click and click “Extract All”
+- Make sure the file path is located to the “Mods” folder 
+- Click “Browse”
+- Click “Documents”, then “Electronic Arts”, “Sims 4”, and then the “Mods” folder. 
+- Delete the .zip file as it is now empty.
+
+> [!WARNING]
+>  Make sure the file is directly in the “Mods” folder OR it is located in a SINGULAR folder within the “Mods” folder in order for the game to render that it is installed. If it is buried too deep, it can’t be read.
+
+**Ensuring The Mods are Installed in Game** 
+
+In order to make sure that the mods show up in the game, you need to have mods and CC enabled in settings: 
+
+1. Open The Sims 4 
+2. In the home screen, navigate to the three buttons at the top right corner 
+3. Select “Options” 
+4. Click the checkbox next to “Enable mods and custom content” as well as “Allow script mods” 
+5. Restart the game to allow for these settings to enact. 
+6. After restarting, every single one of your mods should appear in a large, scrollable list. Here you can view which mods are properly in your game and whether or not they were installed properly. 
+
+Now you can go into your game and enjoy your new mods properly! 
+
+**What to Do After an Update**
+
+Script mods break after updates due to the developers changing the actual code within the game which almost all mods rely on. Given this, without that foundational structure, most mods cannot function and end up incompatible with the most current game mode. 
+
+In the best cases, it will simply be unusable in the game. In the worst cases, it can cause glitches, corrupted save files, a completely broken game, or even cause damage to your computer. 
+
+The best case of action to do before and after an update is to, 
+
+1. Drag the “Mods” folder to your desktop to remove it from the game entirely. 
+2. Update your game. 
+3. Go through each of your script mods and check either the compilation lists or the modders page to ensure that it didn’t break. 
+5. If it is broken, delete the mod and download the updated version if available. 
+6. If it is still compatible, you can keep it in your mods folder. 
 
