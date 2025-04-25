@@ -6,8 +6,7 @@ Below is the downloadable PDF for my manual.
 
 [enc4265 sims mods manual  (1).pdf](https://github.com/user-attachments/files/19905811/enc4265.sims.mods.manual.1.pdf)
 
-<object data="myfile.pdf" width="1000" height="1000" type='application/pdf'/>
-
+<object data="[enc4265 sims mods manual  (1).pdf](https://github.com/user-attachments/files/19905811/enc4265.sims.mods.manual.1.pdf)" width="1000" height="1000" type='application/pdf'/>
 
 
 
